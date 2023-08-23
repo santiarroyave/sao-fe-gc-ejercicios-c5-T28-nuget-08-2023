@@ -1,0 +1,81 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\santi\\Desktop\\Proyectos\\Bootcamp\\Repositorios\\sao-fe-gc-ejercicios-c5-T28-nuget-08-2023\\T28-Nuget\\T28-Nuget.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\santi\\Desktop\\Proyectos\\Bootcamp\\Repositorios\\sao-fe-gc-ejercicios-c5-T28-nuget-08-2023\\T28-Nuget\\T28-Nuget.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\santi\\Desktop\\Proyectos\\Bootcamp\\Repositorios\\sao-fe-gc-ejercicios-c5-T28-nuget-08-2023\\T28-Nuget\\T28-Nuget.csproj",
+        "projectName": "T28-Nuget",
+        "projectPath": "C:\\Users\\santi\\Desktop\\Proyectos\\Bootcamp\\Repositorios\\sao-fe-gc-ejercicios-c5-T28-nuget-08-2023\\T28-Nuget\\T28-Nuget.csproj",
+        "packagesPath": "C:\\Users\\santi\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\santi\\Desktop\\Proyectos\\Bootcamp\\Repositorios\\sao-fe-gc-ejercicios-c5-T28-nuget-08-2023\\T28-Nuget\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\santi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "JWT": {
+              "target": "Package",
+              "version": "[10.1.0, )"
+            },
+            "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[6.0.21, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[7.0.10, )"
+            },
+            "NUnit": {
+              "target": "Package",
+              "version": "[3.13.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
