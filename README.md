@@ -14,3 +14,9 @@ Librerías a incluir en el proyecto:
 
 ## Capturas
 ![imagen](https://github.com/santiarroyave/sao-fe-gc-ejercicios-c5-T28-nuget-08-2023/assets/135848692/84714fa2-c48e-41a8-a0d7-4f873dd59e79)
+
+## ¿Para qué sirven?
+- **NUnit**: Se utiliza para realizar pruebas unitarias en aplicaciones .NET
+- **Entity Framework**: Es un ORM para acceder a bases de datos en .NET
+- **Identity Framework**: Ofrece funcionalidad de autenticación y autorización en aplicaciones .NET
+- **JWT**: Se utiliza para la autenticación basada en tokens en aplicaciones web.
